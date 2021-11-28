@@ -1,0 +1,15 @@
+/usr/share/ppd/custom
+/tmp
+/tmp/.font-unix
+/tmp/.ICE-unix
+/tmp/.XIM-unix
+/tmp/.Test-unix
+/tmp/.X11-unix
+/run/lock
+/var/spool/samba
+/var/spool/cron/crontabs
+/var/tmp
+/var/crash
+/var/lib/samba/usershares
+/dev/mqueue
+/dev/shm
